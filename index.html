@@ -31,6 +31,12 @@
         h2 { color: #474EDD; border-bottom: 2px solid #eee; padding-bottom: 5px; margin-top: 25px; }
         ul { padding-left: 20px; }
         li { margin-bottom: 10px; }
+        .contact-box {
+            background-color: #eef0ff;
+            padding: 15px;
+            border-radius: 8px;
+            border-left: 4px solid #474EDD;
+        }
         footer {
             text-align: center;
             margin-top: 40px;
@@ -39,7 +45,6 @@
             color: #666;
             font-size: 0.9rem;
         }
-        .highlight { background-color: #fff3cd; padding: 2px 5px; border-radius: 4px; }
         @media (max-width: 768px) {
             .container { margin: 10px; padding: 20px; }
             h1 { font-size: 1.5rem; }
@@ -53,44 +58,43 @@
 </header>
 
 <div class="container">
-    <p><strong>Dernière mise à jour :</strong> 01/03/2026</p>
+    <p><strong>Dernière mise à jour :</strong> 06/04/2026</p>
 
-    <p>Bienvenue dans <strong>Spin & Pay</strong>. Votre vie privée est importante pour nous. Cette politique explique comment les données sont traitées, notamment dans le cadre de la diffusion publicitaire.</p>
+    <p>Bienvenue dans <strong>Spin & Pay</strong>. Votre vie privée est importante pour nous. Cette politique explique comment les données sont traitées, notamment dans le cadre de la diffusion publicitaire et des achats intégrés.</p>
 
     <h2>1. Collecte des données</h2>
-    <p>Nous ne collectons pas directement de données nominatives (nom, email, etc.). Cependant, pour assurer le fonctionnement de l'application et la diffusion de publicités, des données techniques sont collectées automatiquement par nos partenaires :</p>
+    <p>Nous ne collectons pas directement de données nominatives. Cependant, pour assurer le fonctionnement de l'application (achats) et la diffusion de publicités, des données techniques sont traitées automatiquement par nos partenaires (Google Play Services, AdMob) :</p>
     <ul>
-        <li><strong>Identifiants publicitaires :</strong> Identifiant publicitaire Google (AAID) ou Apple (IDFA).</li>
-        <li><strong>Données techniques :</strong> Modèle de l'appareil, version du système d'exploitation, et adresse IP (utilisée principalement pour la géolocalisation approximative).</li>
+        <li><strong>Identifiants publicitaires :</strong> Identifiant publicitaire Google (AAID).</li>
+        <li><strong>Données de paiement :</strong> Historique des achats via Google Play Billing (géré de manière sécurisée par Google).</li>
+        <li><strong>Données techniques :</strong> Modèle de l'appareil, version du système, et adresse IP.</li>
     </ul>
 
-    <h2>2. Utilisation d'AdMob (Publicités)</h2>
-    <p>Cette application utilise le service <strong>Google AdMob</strong> pour afficher des annonces publicitaires. Ces publicités nous permettent de proposer l'application gratuitement.</p>
+    <h2>2. Services tiers (AdMob & Google Play)</h2>
+    <p>L'application utilise des SDK tiers qui collectent des données pour leur fonctionnement :</p>
     <ul>
-        <li>AdMob peut utiliser ces identifiants pour personnaliser les publicités en fonction de vos centres d'intérêt.</li>
-        <li>Pour en savoir plus sur la gestion de vos données par Google, vous pouvez consulter la <a href="https://policies.google.com/privacy" target="_blank">Politique de confidentialité de Google</a>.</li>
+        <li><strong>Google AdMob :</strong> Utilise les identifiants pour diffuser des publicités et mesurer leur performance. <a href="https://policies.google.com/privacy" target="_blank">Politique de confidentialité de Google</a>.</li>
+        <li><strong>Google Play Billing :</strong> Traite les transactions financières pour les achats intégrés de manière sécurisée.</li>
     </ul>
 
-    <h2>3. Stockage local des statistiques</h2>
-    <p>L'application enregistre vos statistiques de jeu (scores, progression) <strong>uniquement en local</strong> sur votre appareil.</p>
+    <h2>3. Stockage local</h2>
+    <p>Vos statistiques de jeu (scores, préférences) sont stockées <strong>exclusivement en local</strong> sur votre appareil. Ces données ne sont jamais transmises à nos serveurs.</p>
+
+    <h2>4. Suppression des données et Droits</h2>
+    <p>Conformément aux règles de Google Play, vous disposez d'un droit de contrôle sur vos données :</p>
     <ul>
-        <li>Ces données de jeu ne sont pas partagées avec des tiers.</li>
-        <li>Elles sont supprimées automatiquement si vous désinstallez l'application.</li>
+        <li><strong>Données locales :</strong> Vous pouvez supprimer toutes vos statistiques de jeu en vidant le cache de l'application ou en la désinstallant.</li>
+        <li><strong>Identifiants publicitaires :</strong> Vous pouvez réinitialiser ou supprimer votre ID publicitaire via <em>Paramètres > Google > Annonces</em> sur votre appareil Android.</li>
+        <li><strong>Demande de suppression :</strong> Bien que nous ne stockions pas de données nominatives sur nos propres serveurs, vous pouvez nous contacter pour toute question relative à la suppression de l'accès aux services tiers liés à votre compte.</li>
     </ul>
 
-    <h2>4. Vos droits et choix</h2>
-    <p>Vous avez le contrôle sur la personnalisation des publicités :</p>
-    <ul>
-        <li><strong>Sur Android :</strong> Allez dans <em>Paramètres > Google > Annonces</em> pour réinitialiser votre identifiant ou désactiver la personnalisation.</li>
-        <li><strong>Sur iOS :</strong> Allez dans <em>Réglages > Confidentialité > Publicité Apple</em>.</li>
-    </ul>
-
-    <h2>5. Sécurité</h2>
-    <p>Nous prenons les mesures nécessaires pour protéger les informations traitées localement. Les données publicitaires sont sécurisées par les protocoles de Google AdMob.</p>
-
-    <h2>6. Contact</h2>
-    <p>Si vous avez des questions concernant cette politique, contactez-nous à : <br>
-    <strong>malibu1106@gmail.com</strong></p>
+    <h2>5. Contact et Procédure de demande</h2>
+    <p>Pour toute demande de suppression de données ou question sur votre confidentialité, veuillez nous envoyer un e-mail à l'adresse suivante :</p>
+    <div class="contact-box">
+        <strong>E-mail :</strong> malibu1106@gmail.com<br>
+        <strong>Objet :</strong> Demande relative aux données personnelles - Spin & Pay
+    </div>
+    <p>Nous nous engageons à répondre et à traiter les demandes de suppression dans un délai de 30 jours.</p>
 </div>
 
 <footer>
