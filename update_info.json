@@ -2,8 +2,8 @@
   "version": "240",
   "is_critical": false,
   "changelog": {
-    "fr": "Nouveautés :\n- Choix de la devise monétaire\n- Amélioration des corrections pour les exercices interrompus\n- Notification automatique en cas de nouvelle version\n- Affichage des notes de mise à jour",
-    "en": "What's new:\n- Currency selection\n- Improved corrections for interrupted exercises\n- Automatic update notifications\n- Changelog display on new updates",
-    "sp": "Novedades:\n- Selección de moneda\n- Mejora en las correcciones de ejercicios interrumpidos\n- Notificaciones automáticas de actualización\n- Notas de actualización tras cada versión"
+    "fr": "Nouveautés :\n\n\n- Choix de la devise monétaire\n- Amélioration des corrections pour les exercices interrompus\n\n- Notification automatique en cas de nouvelle version\n\n- Affichage des notes de mise à jour",
+    "en": "What's new:\n\n\n- Currency selection\n\n- Improved corrections for interrupted exercises\n\n- Automatic update notifications\n\n- Changelog display on new updates",
+    "sp": "Novedades:\n\n\n- Selección de moneda\n\n- Mejora en las correcciones de ejercicios interrumpidos\n\n- Notificaciones automáticas de actualización\n\n- Notas de actualización tras cada versión"
   }
 }
