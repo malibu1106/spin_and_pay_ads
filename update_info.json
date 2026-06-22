@@ -1,5 +1,5 @@
 {
-  "version": "2.4.0",
+  "version": "240",
   "is_critical": true,
   "changelog": {
     "fr": "Nouveautés :\n- Choix de la devise monétaire\n- Amélioration des corrections pour les exercices interrompus\n- Notification automatique en cas de nouvelle version\n- Affichage des notes de mise à jour",
