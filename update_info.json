@@ -1,6 +1,6 @@
 {
   "version": "240",
-  "is_critical": true,
+  "is_critical": false,
   "changelog": {
     "fr": "Nouveautés :\n- Choix de la devise monétaire\n- Amélioration des corrections pour les exercices interrompus\n- Notification automatique en cas de nouvelle version\n- Affichage des notes de mise à jour",
     "en": "What's new:\n- Currency selection\n- Improved corrections for interrupted exercises\n- Automatic update notifications\n- Changelog display on new updates",
