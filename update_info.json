@@ -1,9 +1,9 @@
 {
-  "version": "240",
-  "is_critical": false,
-  "changelog": {
-    "fr": "- Choix de la devise monétaire\n\n- Amélioration des corrections pour les exercices interrompus\n\n- Notification automatique en cas de nouvelle version\n\n- Affichage des notes de mise à jour",
-    "en": "- Currency selection\n\n- Improved corrections for interrupted exercises\n\n- Automatic update notifications\n\n- Changelog display on new updates",
-    "es": "- Selección de moneda\n\n- Mejora en las correcciones de ejercicios interrumpidos\n\n- Notificaciones automáticas de actualización\n\n- Notas de actualización tras cada versión"
-  }
+	"version": "240",
+	"is_critical": false,
+	"changelog": {
+		"fr": "- Notification automatique en cas de nouvelle version\n\n- Affichage des notes de mise à jour\n\n- Choix de la devise monétaire\n\n- Amélioration des corrections pour les exercices interrompus\n\n- Amélioration des traductions",
+		"en": "- Automatic update notifications\n\n- Changelog display on new updates\n\n- Currency selection\n\n- Improved corrections for interrupted exercises\n\n- Translation improvements",
+		"es": "- Notificaciones automáticas de actualización\n\n- Notas de actualización tras cada versión\n\n- Selección de moneda\n\n- Mejora en las correcciones de ejercicios interrumpidos\n\n- Mejoras en las traducciones"
+	}
 }
