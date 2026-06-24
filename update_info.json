@@ -8,13 +8,13 @@
 	},
 	"changelog_structured": [
 		{
-			"icon": "new",
+			"icon": "notifs",
 			"fr": "Notification automatique en cas de nouvelle version",
 			"en": "Automatic update notifications",
 			"es": "Notificaciones automáticas de actualización"
 		},
 		{
-			"icon": "new",
+			"icon": "notifs",
 			"fr": "Affichage des notes de mise à jour",
 			"en": "Changelog display on new updates",
 			"es": "Notas de actualización tras cada versión"
