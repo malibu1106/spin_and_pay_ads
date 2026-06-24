@@ -1,29 +1,23 @@
 {
-	"version": "240",
+	"version": "250",
 	"is_critical": false,
 	"changelog": {
-		"fr": "- Notification automatique en cas de nouvelle version\n\n- Affichage des notes de mise à jour\n\n- Choix de la devise monétaire\n\n- Amélioration des corrections pour les exercices interrompus\n\n- Amélioration des traductions",
-		"en": "- Automatic update notifications\n\n- Changelog display on new updates\n\n- Currency selection\n\n- Improved corrections for interrupted exercises\n\n- Translation improvements",
-		"es": "- Notificaciones automáticas de actualización\n\n- Notas de actualización tras cada versión\n\n- Selección de moneda\n\n- Mejora en las corrections de ejercicios interrumpidos\n\n- Mejoras en las traducciones"
+		"fr": "- Ajout d'un mode figures dans l'exercice multiplications\n\n- Ajout de nouvelles figures dans les paiements en figures\n\n- Amélioration de l'affichage des réponses aux exercices en cas d'abandon\n\n- Amélioration de l'affichage des notes de mises à jour",
+		"en": "- Added a pictures bets mode in the multiplication exercise\n\n- Added new pictures bets in payments\n\n- Improved the display of exercise answers in case of abandonment\n\n- Improved the display of release notes",
+		"es": "- Añadido un modo de imágenes en el ejercicio de multiplicaciones\n\n- Añadidas nuevas imágenes en los pagos con imágenes\n\n- Mejorada la visualización de las respuestas de los ejercicios en caso de abandono\n\n- Mejorada la visualización de las notas de versión"
 	},
 	"changelog_structured": [
 		{
-			"icon": "notifs",
-			"fr": "Notification automatique en cas de nouvelle version",
-			"en": "Automatic update notifications",
-			"es": "Notificaciones automáticas de actualización"
+			"icon": "tables",
+			"fr": "Ajout d'un mode figures dans l'exercice multiplications",
+			"en": "Added a pictures bets mode in the multiplication exercise",
+			"es": "Añadido un modo de imágenes en el ejercicio de multiplicaciones"
 		},
 		{
-			"icon": "notifs",
-			"fr": "Affichage des notes de mise à jour",
-			"en": "Changelog display on new updates",
-			"es": "Notas de actualización tras cada versión"
-		},
-		{
-			"icon": "settings",
-			"fr": "Choix de la devise monétaire",
-			"en": "Currency selection",
-			"es": "Selección de moneda"
+			"icon": "paiements_f",
+			"fr": "Ajout de nouvelles figures dans les paiements en figures",
+			"en": "Added new pictures bets in payments",
+			"es": "Añadidas nuevas imágenes en los pagos con imágenes"
 		},
 		{
 			"icon": "new",
@@ -32,10 +26,10 @@
 			"es": "Mejora en las correcciones de ejercicios interrompidos"
 		},
 		{
-			"icon": "trads",
-			"fr": "Amélioration des traductions",
-			"en": "Translation improvements",
-			"es": "Mejoras en las traducciones"
+			"icon": "notifs",
+			"fr": "Amélioration de l'affichage des notes de mises à jour",
+			"en": "Improved the display of release notes",
+			"es": "Mejorada la visualización de las notas de versión"
 		}
 	]
 }
