@@ -8,13 +8,13 @@
 	},
 	"changelog_structured": [
 		{
-			"icon": "settings",
+			"icon": "tables",
 			"fr": "Ajout d'un réglage pour le temps de calcul dans l'exercice multiplications (paramètres)",
 			"en": "Added a calculation time setting in the multiplication exercise (settings)",
 			"es": "Añadido un ajuste para el tiempo de cálculo en el ejercicio de multiplicaciones (ajustes)"
 		},
 		{
-			"icon": "settings",
+			"icon": "numéros",
 			"fr": "Ajout d'un réglage pour le temps de calcul dans le mode numéros (paramètres)",
 			"en": "Added a calculation time setting in the numbers mode (settings)",
 			"es": "Añadido un ajuste para el tiempo de cálculo en el modo de números (ajustes)"
