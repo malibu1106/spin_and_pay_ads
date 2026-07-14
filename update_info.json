@@ -1,35 +1,29 @@
 {
-	"version": "250",
+	"version": "251",
 	"is_critical": false,
 	"changelog": {
-		"fr": "- Ajout d'un mode figures dans l'exercice multiplications\n\n- Ajout de nouvelles figures dans les paiements en figures\n\n- Amélioration de l'affichage des réponses aux exercices en cas d'abandon\n\n- Amélioration de l'affichage des notes de mises à jour",
-		"en": "- Added a pictures bets mode in the multiplication exercise\n\n- Added new pictures bets in payments\n\n- Improved the display of exercise answers in case of abandonment\n\n- Improved the display of release notes",
-		"es": "- Añadido un modo de imágenes en el ejercicio de multiplicaciones\n\n- Añadidas nuevas imágenes en los pagos con imágenes\n\n- Mejorada la visualización de las respuestas de los ejercicios en caso de abandono\n\n- Mejorada la visualización de las notas de versión"
+		"fr": "- Ajout d'un réglage pour le temps de calcul dans l'exercice multiplications (paramètres)\n\n- Ajout d'un réglage pour le temps de calcul dans le mode numéros (paramètres)\n\n- Correction d'un bug pour l'affichage des statistiques de l'exercice sur les annonces",
+		"en": "- Added a calculation time setting in the multiplication exercise (settings)\n\n- Added a calculation time setting in the numbers mode (settings)\n\n- Fixed a bug in the stats display for the announcements exercise",
+		"es": "- Añadido un ajuste para el tiempo de cálculo en el ejercicio de multiplicaciones (ajustes)\n\n- Añadido un ajuste para el tiempo de cálculo en el modo de números (ajustes)\n\n- Corregido un error en la visualización de estadísticas del ejercicio de anuncios"
 	},
 	"changelog_structured": [
 		{
 			"icon": "tables",
-			"fr": "Ajout d'un mode figures dans l'exercice multiplications",
-			"en": "Added a pictures bets mode in the multiplication exercise",
-			"es": "Añadido un modo de imágenes en el ejercicio de multiplicaciones"
+			"fr": "Ajout d'un réglage pour le temps de calcul dans l'exercice multiplications (paramètres)",
+			"en": "Added a calculation time setting in the multiplication exercise (settings)",
+			"es": "Añadido un ajuste para el tiempo de cálculo en el ejercicio de multiplicaciones (ajustes)"
 		},
 		{
-			"icon": "paiements_f",
-			"fr": "Ajout de nouvelles figures dans les paiements en figures",
-			"en": "Added new pictures bets in payments",
-			"es": "Añadidas nuevas imágenes en los pagos con imágenes"
+			"icon": "numéros",
+			"fr": "Ajout d'un réglage pour le temps de calcul dans le mode numéros (paramètres)",
+			"en": "Added a calculation time setting in the numbers mode (settings)",
+			"es": "Añadido un ajuste para el tiempo de cálculo en el modo de números (ajustes)"
 		},
 		{
-			"icon": "new",
-			"fr": "Amélioration des corrections pour les exercices interrompus",
-			"en": "Improved corrections for interrupted exercises",
-			"es": "Mejora en las correcciones de ejercicios interrompidos"
-		},
-		{
-			"icon": "notifs",
-			"fr": "Amélioration de l'affichage des notes de mises à jour",
-			"en": "Improved the display of release notes",
-			"es": "Mejorada la visualización de las notas de versión"
+			"icon": "bug",
+			"fr": "Correction d'un bug pour l'affichage des statistiques de l'exercice sur les annonces",
+			"en": "Fixed a bug in the stats display for the announcements exercise",
+			"es": "Corregido un error en la visualización de estadísticas del ejercicio de anuncios"
 		}
 	]
 }
