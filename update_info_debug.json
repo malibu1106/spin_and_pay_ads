@@ -1,0 +1,29 @@
+{
+	"version": "251",
+	"is_critical": false,
+	"changelog": {
+		"fr": "- Ajout d'un réglage pour le temps de calcul dans l'exercice multiplications (paramètres)\n\n- Ajout d'un réglage pour le temps de calcul dans le mode numéros (paramètres)\n\n- Correction d'un bug pour l'affichage des statistiques de l'exercice sur les annonces",
+		"en": "- Added a calculation time setting in the multiplication exercise (settings)\n\n- Added a calculation time setting in the numbers mode (settings)\n\n- Fixed a bug in the stats display for the announcements exercise",
+		"es": "- Añadido un ajuste para el tiempo de cálculo en el ejercicio de multiplicaciones (ajustes)\n\n- Añadido un ajuste para el tiempo de cálculo en el modo de números (ajustes)\n\n- Corregido un error en la visualización de estadísticas del ejercicio de anuncios"
+	},
+	"changelog_structured": [
+		{
+			"icon": "settings",
+			"fr": "Ajout d'un réglage pour le temps de calcul dans l'exercice multiplications (paramètres)",
+			"en": "Added a calculation time setting in the multiplication exercise (settings)",
+			"es": "Añadido un ajuste para el tiempo de cálculo en el ejercicio de multiplicaciones (ajustes)"
+		},
+		{
+			"icon": "settings",
+			"fr": "Ajout d'un réglage pour le temps de calcul dans le mode numéros (paramètres)",
+			"en": "Added a calculation time setting in the numbers mode (settings)",
+			"es": "Añadido un ajuste para el tiempo de cálculo en el modo de números (ajustes)"
+		},
+		{
+			"icon": "bug",
+			"fr": "Correction d'un bug pour l'affichage des statistiques de l'exercice sur les annonces",
+			"en": "Fixed a bug in the stats display for the announcements exercise",
+			"es": "Corregido un error en la visualización de estadísticas del ejercicio de anuncios"
+		}
+	]
+}
