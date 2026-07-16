@@ -1,5 +1,5 @@
 {
-	"version": "253",
+	"version": "254",
 	"is_critical": false,
 	"changelog": {
 		"fr": "- Amélioration graphique du menu\n\n- Amélioration graphique des listes dans toutes les pages\n\n- Ajout de nouvelles figures dans l'exercice \"Paiements figures\"\n\n- Correction d'un bug provoquant des crashs sur certains appareils",
