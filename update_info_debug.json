@@ -2,9 +2,9 @@
 	"version": "252",
 	"is_critical": false,
 	"changelog": {
-		"fr": "- Amélioration graphique du menu\n\n- Ajout de nouvelles figures dans l'exercice \"Paiements figures\"\n\n- Amélioration graphique des listes dans toutes les pages\n\n- Correction d'un bug provoquant des crashs sur certains appareils",
-		"en": "- Graphical improvement of the menu\n\n- Added new picture bets in the \"Picture bets payouts\" exercise\n\n- Graphical improvement of the lists on all pages\n\n- Fixed a bug causing crashes on some devices",
-		"es": "- Mejora gráfica del menú\n\n- Añadidas nuevas figuras en el ejercicio \"Pagos de figuras\"\n\n- Mejora gráfica de las listas en todas las páginas\n\n- Corregido un error que provocaba bloqueos en algunos dispositivos"
+		"fr": "- Amélioration graphique du menu\n\n- Amélioration graphique des listes dans toutes les pages\n\n- Ajout de nouvelles figures dans l'exercice \"Paiements figures\"\n\n- Correction d'un bug provoquant des crashs sur certains appareils",
+		"en": "- Graphical improvement of the menu\n\n- Graphical improvement of the lists on all pages\n\n- Added new picture bets in the \"Picture bets payouts\" exercise\n\n- Fixed a bug causing crashes on some devices",
+		"es": "- Mejora gráfica del menú\n\n- Mejora gráfica de las listas en todas las páginas\n\n- Añadidas nuevas figuras en el ejercicio \"Pagos de figuras\"\n\n- Corregido un error que provocaba bloqueos en algunos dispositivos"
 	},
 	"changelog_structured": [
 		{
@@ -14,16 +14,16 @@
 			"es": "Mejora gráfica del menú"
 		},
 		{
-			"icon": "paiements_f",
-			"fr": "Ajout de nouvelles figures dans l'exercice \"Paiements figures\"",
-			"en": "Added new picture bets in the \"Picture bets payouts\" exercise",
-			"es": "Añadidas nuevas figuras en el ejercicio \"Pagos de figuras\""
-		},
-		{
 			"icon": "new",
 			"fr": "Amélioration graphique des listes dans toutes les pages",
 			"en": "Graphical improvement of the lists on all pages",
 			"es": "Mejora gráfica de las listas en todas las páginas"
+		},
+		{
+			"icon": "paiements_f",
+			"fr": "Ajout de nouvelles figures dans l'exercice \"Paiements figures\"",
+			"en": "Added new picture bets in the \"Picture bets payouts\" exercise",
+			"es": "Añadidas nuevas figuras en el ejercicio \"Pagos de figuras\""
 		},
 		{
 			"icon": "bug",
