@@ -2,14 +2,14 @@
 	"version": "260",
 	"is_critical": false,
 	"changelog": {
-		"fr": "- Mode Roulette Américaine disponible ! Toutes les pages s'adaptent désormais au cylindre américain (00) (Activable dans les paramètres)\n\n- Réorganisation du menu principal pour l'arrivée du mode Roulette Américaine\n\n- Optimisation globale de l'application",
+		"fr": "- Mode Roulette Américaine disponible! Toutes les pages s'adaptent désormais au cylindre américain (00) (Activable dans les paramètres)\n\n- Réorganisation du menu principal pour l'arrivée du mode Roulette Américaine\n\n- Optimisation globale de l'application",
 		"en": "- American Roulette mode available! All pages now adapt to the American wheel (00) (Can be enabled in settings)\n\n- Reorganization of the main menu for the arrival of American Roulette mode\n\n- Overall app optimization",
 		"es": "- ¡Modo Ruleta Americana disponible! Todas las páginas se adaptan ahora al cilindro americano (00) (Se puede activar en los ajustes)\n\n- Reorganización del menú principal para la llegada del modo Ruleta Americana\n\n- Optimización global de la aplicación"
 	},
 	"changelog_structured": [
 		{
 			"icon": "usa",
-			"fr": "Mode Roulette Américaine disponible ! \n Toutes les pages s'adaptent désormais au cylindre américain (00) \n (Activable dans les paramètres)",
+			"fr": "Mode Roulette Américaine disponible! \n Toutes les pages s'adaptent désormais au cylindre américain (00) \n (Activable dans les paramètres)",
 			"en": "American Roulette mode available! \n All pages now adapt to the American wheel (00) \n (Can be enabled in settings)",
 			"es": "¡Modo Ruleta Americana disponible! \n Todas las páginas se adaptan ahora al cilindro americano (00) \n (Se puede activar en los ajustes)"
 		},
