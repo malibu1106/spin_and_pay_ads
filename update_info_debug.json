@@ -1,5 +1,5 @@
 {
-	"version": "260",
+	"version": "261",
 	"is_critical": false,
 	"changelog": {
 		"fr": "- Mode Roulette Américaine disponible! Toutes les pages s'adaptent désormais au cylindre américain (00) (Activable dans les paramètres)\n\n- Réorganisation du menu principal pour l'arrivée du mode Roulette Américaine\n\n- Optimisation globale de l'application",
