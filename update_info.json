@@ -1,35 +1,29 @@
 {
-	"version": "254",
+	"version": "261",
 	"is_critical": false,
 	"changelog": {
-		"fr": "- Amélioration graphique du menu\n\n- Amélioration graphique des listes dans toutes les pages\n\n- Ajout de nouvelles figures dans l'exercice \"Paiements figures\"\n\n- Correction d'un bug provoquant des crashs sur certains appareils",
-		"en": "- Graphical improvement of the menu\n\n- Graphical improvement of the lists on all pages\n\n- Added new picture bets in the \"Picture bets payouts\" exercise\n\n- Fixed a bug causing crashes on some devices",
-		"es": "- Mejora gráfica del menú\n\n- Mejora gráfica de las listas en todas las páginas\n\n- Añadidas nuevas figuras en el ejercicio \"Pagos de figuras\"\n\n- Corregido un error que provocaba bloqueos en algunos dispositivos"
+		"fr": "- Mode Roulette Américaine disponible! Toutes les pages s'adaptent désormais au cylindre américain (00) (Activable dans les paramètres)\n\n- Réorganisation du menu principal pour l'arrivée du mode Roulette Américaine\n\n- Optimisation globale de l'application",
+		"en": "- American Roulette mode available! All pages now adapt to the American wheel (00) (Can be enabled in settings)\n\n- Reorganization of the main menu for the arrival of American Roulette mode\n\n- Overall app optimization",
+		"es": "- ¡Modo Ruleta Americana disponible! Todas las páginas se adaptan ahora al cilindro americano (00) (Se puede activar en los ajustes)\n\n- Reorganización del menú principal para la llegada del modo Ruleta Americana\n\n- Optimización global de la aplicación"
 	},
 	"changelog_structured": [
 		{
+			"icon": "usa",
+			"fr": "Mode Roulette Américaine disponible! \nToutes les pages s'adaptent désormais au cylindre américain (00) \n(Activable dans les paramètres)",
+			"en": "American Roulette mode available! \nAll pages now adapt to the American wheel (00) \n(Can be enabled in settings)",
+			"es": "¡Modo Ruleta Americana disponible! \nTodas las páginas se adaptan ahora al cilindro americano (00) \n(Se puede activar en los ajustes)"
+		},
+		{
 			"icon": "menu",
-			"fr": "Amélioration graphique du menu",
-			"en": "Graphical improvement of the menu",
-			"es": "Mejora gráfica del menú"
+			"fr": "Réorganisation du menu principal pour l'arrivée du mode Roulette Américaine",
+			"en": "Reorganization of the main menu for the arrival of American Roulette mode",
+			"es": "Reorganización del menú principal para la llegada del modo Ruleta Americana"
 		},
 		{
-			"icon": "new",
-			"fr": "Amélioration graphique des listes dans toutes les pages",
-			"en": "Graphical improvement of the lists on all pages",
-			"es": "Mejora gráfica de las listas en todas las páginas"
-		},
-		{
-			"icon": "paiements_f",
-			"fr": "Ajout de nouvelles figures dans l'exercice \"Paiements figures\"",
-			"en": "Added new picture bets in the \"Picture bets payouts\" exercise",
-			"es": "Añadidas nuevas figuras en el ejercicio \"Pagos de figuras\""
-		},
-		{
-			"icon": "bug",
-			"fr": "Correction d'un bug provoquant des crashs sur certains appareils",
-			"en": "Fixed a bug causing crashes on some devices",
-			"es": "Corregido un error que provocaba bloqueos en algunos dispositivos"
+			"icon": "opti",
+			"fr": "Optimisation globale de l'application",
+			"en": "Overall app optimization",
+			"es": "Optimización global de la aplicación"
 		}
 	]
 }
