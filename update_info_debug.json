@@ -2,9 +2,9 @@
 	"version": "263",
 	"is_critical": true,
 	"changelog": {
-		"fr": "- Ajout de nouvelles figures\n\n- Corrections de bugs mineurs",
-		"en": "- Added new pictures bets\n\n- Minor bug fixes",
-		"es": "- Nuevas figuras añadidas\n\n- Correcciones de errores menores"
+		"fr": "- Ajout de nouvelles figures\n- Correction d'un bug critique",
+		"en": "- Added new pictures bets\n- Critical bug fix",
+		"es": "- Nuevas figuras añadidas\n- Corrección de error crítico"
 	},
 	"changelog_structured": [
 		{
@@ -15,9 +15,9 @@
 		},
 		{
 			"icon": "bug",
-			"fr": "Corrections de bugs mineurs",
-			"en": "Minor bug fixes",
-			"es": "Correcciones de errores menores"
+			"fr": "Correction d'un bug critique",
+			"en": "Critical bug fix",
+			"es": "Corrección de error crítico"
 		}
 	]
 }
