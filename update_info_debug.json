@@ -1,6 +1,6 @@
 {
 	"version": "263",
-	"is_critical": false,
+	"is_critical": true,
 	"changelog": {
 		"fr": "- Ajout de nouvelles figures\n\n- Corrections de bugs mineurs",
 		"en": "- Added new pictures bets\n\n- Minor bug fixes",
