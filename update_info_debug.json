@@ -1,12 +1,18 @@
 {
-	"version": "262",
+	"version": "263",
 	"is_critical": false,
 	"changelog": {
-		"fr": "- Corrections de bugs mineurs",
-		"en": "- Minor bug fixes",
-		"es": "- Correcciones de errores menores"
+		"fr": "- Ajout de nouvelles figures\n\n- Corrections de bugs mineurs",
+		"en": "- Added new pictures bets\n\n- Minor bug fixes",
+		"es": "- Nuevas figuras añadidas\n\n- Correcciones de errores menores"
 	},
 	"changelog_structured": [
+		{
+			"icon": "paiements_f",
+			"fr": "Ajout de nouvelles figures",
+			"en": "Added new pictures bets",
+			"es": "Nuevas figuras añadidas"
+		},
 		{
 			"icon": "bug",
 			"fr": "Corrections de bugs mineurs",
