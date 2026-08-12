@@ -1,10 +1,10 @@
 {
-	"version": "265",
+	"version": "266",
 	"is_critical": true,
 	"changelog": {
-		"fr": "- Ajout de nouvelles figures\n- Correction d'un bug critique",
-		"en": "- Added new pictures bets\n- Critical bug fix",
-		"es": "- Nuevas figuras añadidas\n- Corrección de error crítico"
+		"fr": "- Ajout de nouvelles figures\n- Correction d'un bug critique\n- Mise à jour de l'icône",
+		"en": "- Added new pictures bets\n- Critical bug fix\n- Updated app icon",
+		"es": "- Nuevas figuras añadidas\n- Corrección de error crítico\n- Actualización del icono de la aplicación"
 	},
 	"changelog_structured": [
 		{
@@ -18,6 +18,12 @@
 			"fr": "Correction d'un bug critique",
 			"en": "Critical bug fix",
 			"es": "Corrección de error crítico"
+		},
+		{
+			"icon": "new",
+			"fr": "Mise à jour de l'icône",
+			"en": "Updated app icon",
+			"es": "Actualización del icono de la aplicación"
 		}
 	]
 }
