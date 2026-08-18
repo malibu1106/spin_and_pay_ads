@@ -3,14 +3,14 @@
 	"is_critical": true,
 	"changelog": {
 		"fr": "- Générateur de figures dynamiques : combinaisons quasiment infinies !\n- Correction d'un bug critique\n- Mise à jour de l'icône",
-		"en": "- Dynamic figure bets generator: virtually limitless combinations!\n- Critical bug fix\n- Updated app icon",
+		"en": "- Dynamic pictures bets generator: virtually limitless combinations!\n- Critical bug fix\n- Updated app icon",
 		"es": "- Generador de figuras dinámicas: ¡combinaciones casi ilimitadas!\n- Corrección de error crítico\n- Actualización del icono de la aplicación"
 	},
 	"changelog_structured": [
 		{
 			"icon": "paiements_f",
 			"fr": "Générateur de figures dynamiques : combinaisons quasiment infinies !",
-			"en": "Dynamic figure bets generator: virtually limitless combinations!",
+			"en": "Dynamic pictures bets generator: virtually limitless combinations!",
 			"es": "Generador de figuras dinámicas: ¡combinaciones casi ilimitadas!"
 		},
 		{
