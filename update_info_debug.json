@@ -1,17 +1,17 @@
 {
-	"version": "270",
+	"version": "280",
 	"is_critical": true,
 	"changelog": {
-		"fr": "- Ajout de nouvelles figures\n- Correction d'un bug critique\n- Mise à jour de l'icône",
-		"en": "- Added new pictures bets\n- Critical bug fix\n- Updated app icon",
-		"es": "- Nuevas figuras añadidas\n- Corrección de error crítico\n- Actualización del icono de la aplicación"
+		"fr": "- Générateur de figures dynamiques : combinaisons quasiment infinies !\n- Correction d'un bug critique\n- Mise à jour de l'icône",
+		"en": "- Dynamic figure bets generator: virtually limitless combinations!\n- Critical bug fix\n- Updated app icon",
+		"es": "- Generador de figuras dinámicas: ¡combinaciones casi ilimitadas!\n- Corrección de error crítico\n- Actualización del icono de la aplicación"
 	},
 	"changelog_structured": [
 		{
 			"icon": "paiements_f",
-			"fr": "Ajout de nouvelles figures",
-			"en": "Added new pictures bets",
-			"es": "Nuevas figuras añadidas"
+			"fr": "Générateur de figures dynamiques : combinaisons quasiment infinies !",
+			"en": "Dynamic figure bets generator: virtually limitless combinations!",
+			"es": "Generador de figuras dinámicas: ¡combinaciones casi ilimitadas!"
 		},
 		{
 			"icon": "bug",
