@@ -1,5 +1,5 @@
 {
-	"version": "280",
+	"version": "281",
 	"is_critical": true,
 	"changelog": {
 		"fr": "- Générateur de figures dynamiques : combinaisons quasiment infinies !\n- Correction d'un bug critique\n- Mise à jour de l'icône",
