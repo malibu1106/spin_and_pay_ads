@@ -1,29 +1,29 @@
 {
-	"version": "261",
-	"is_critical": false,
+	"version": "281",
+	"is_critical": true,
 	"changelog": {
-		"fr": "- Mode Roulette Américaine disponible! Toutes les pages s'adaptent désormais au cylindre américain (00) (Activable dans les paramètres)\n\n- Réorganisation du menu principal pour l'arrivée du mode Roulette Américaine\n\n- Optimisation globale de l'application",
-		"en": "- American Roulette mode available! All pages now adapt to the American wheel (00) (Can be enabled in settings)\n\n- Reorganization of the main menu for the arrival of American Roulette mode\n\n- Overall app optimization",
-		"es": "- ¡Modo Ruleta Americana disponible! Todas las páginas se adaptan ahora al cilindro americano (00) (Se puede activar en los ajustes)\n\n- Reorganización del menú principal para la llegada del modo Ruleta Americana\n\n- Optimización global de la aplicación"
+		"fr": "- Générateur de figures dynamiques : combinaisons quasiment infinies !\n- Correction d'un bug critique\n- Mise à jour de l'icône",
+		"en": "- Dynamic pictures bets generator: virtually limitless combinations!\n- Critical bug fix\n- Updated app icon",
+		"es": "- Generador de figuras dinámicas: ¡combinaciones casi ilimitadas!\n- Corrección de error crítico\n- Actualización del icono de la aplicación"
 	},
 	"changelog_structured": [
 		{
-			"icon": "usa",
-			"fr": "Mode Roulette Américaine disponible! \nToutes les pages s'adaptent désormais au cylindre américain (00) \n(Activable dans les paramètres)",
-			"en": "American Roulette mode available! \nAll pages now adapt to the American wheel (00) \n(Can be enabled in settings)",
-			"es": "¡Modo Ruleta Americana disponible! \nTodas las páginas se adaptan ahora al cilindro americano (00) \n(Se puede activar en los ajustes)"
+			"icon": "paiements_f",
+			"fr": "Générateur de figures dynamiques : combinaisons quasiment infinies !",
+			"en": "Dynamic pictures bets generator: virtually limitless combinations!",
+			"es": "Generador de figuras dinámicas: ¡combinaciones casi ilimitadas!"
 		},
 		{
-			"icon": "menu",
-			"fr": "Réorganisation du menu principal pour l'arrivée du mode Roulette Américaine",
-			"en": "Reorganization of the main menu for the arrival of American Roulette mode",
-			"es": "Reorganización del menú principal para la llegada del modo Ruleta Americana"
+			"icon": "bug",
+			"fr": "Correction d'un bug critique",
+			"en": "Critical bug fix",
+			"es": "Corrección de error crítico"
 		},
 		{
-			"icon": "opti",
-			"fr": "Optimisation globale de l'application",
-			"en": "Overall app optimization",
-			"es": "Optimización global de la aplicación"
+			"icon": "new",
+			"fr": "Mise à jour de l'icône",
+			"en": "Updated app icon",
+			"es": "Actualización del icono de la aplicación"
 		}
 	]
 }
