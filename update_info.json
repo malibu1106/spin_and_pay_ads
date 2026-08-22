@@ -1,6 +1,6 @@
 {
 	"version": "281",
-	"is_critical": true,
+	"is_critical": false,
 	"changelog": {
 		"fr": "- Générateur de figures dynamiques : combinaisons quasiment infinies !\n- Correction d'un bug critique\n- Mise à jour de l'icône",
 		"en": "- Dynamic pictures bets generator: virtually limitless combinations!\n- Critical bug fix\n- Updated app icon",
