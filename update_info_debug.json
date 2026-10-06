@@ -1,29 +1,23 @@
 {
-	"version": "281",
-	"is_critical": true,
+	"version": "290",
+	"is_critical": false,
 	"changelog": {
-		"fr": "- Générateur de figures dynamiques : combinaisons quasiment infinies !\n- Correction d'un bug critique\n- Mise à jour de l'icône",
-		"en": "- Dynamic pictures bets generator: virtually limitless combinations!\n- Critical bug fix\n- Updated app icon",
-		"es": "- Generador de figuras dinámicas: ¡combinaciones casi ilimitadas!\n- Corrección de error crítico\n- Actualización del icono de la aplicación"
+		"fr": "- Amélioration des performances\n- Réduction de la consommation de batterie et de ressources",
+		"en": "- Performance improvements\n- Reduced battery and resource usage",
+		"es": "- Mejoras de rendimiento\n- Menor consumo de batería y de recursos"
 	},
 	"changelog_structured": [
 		{
-			"icon": "paiements_f",
-			"fr": "Générateur de figures dynamiques : combinaisons quasiment infinies !",
-			"en": "Dynamic pictures bets generator: virtually limitless combinations!",
-			"es": "Generador de figuras dinámicas: ¡combinaciones casi ilimitadas!"
+			"icon": "opti",
+			"fr": "Amélioration des performances",
+			"en": "Performance improvements",
+			"es": "Mejoras de rendimiento"
 		},
 		{
-			"icon": "bug",
-			"fr": "Correction d'un bug critique",
-			"en": "Critical bug fix",
-			"es": "Corrección de error crítico"
-		},
-		{
-			"icon": "new",
-			"fr": "Mise à jour de l'icône",
-			"en": "Updated app icon",
-			"es": "Actualización del icono de la aplicación"
+			"icon": "opti",
+			"fr": "Réduction de la consommation de batterie et de ressources",
+			"en": "Reduced battery and resource usage",
+			"es": "Menor consumo de batería y de recursos"
 		}
 	]
 }
