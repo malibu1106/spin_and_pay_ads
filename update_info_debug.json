@@ -1,23 +1,23 @@
 {
-	"version": "290",
+	"version": "292",
 	"is_critical": false,
 	"changelog": {
-		"fr": "- Amélioration des performances\n- Réduction de la consommation de batterie et de ressources",
-		"en": "- Performance improvements\n- Reduced battery and resource usage",
-		"es": "- Mejoras de rendimiento\n- Menor consumo de batería y de recursos"
+		"fr": "- Ajout d'un nouvel exercice pour repérer les numéros sur l'hippodrome (cylindre européen uniquement)\n- Ajout d'une page sur les anagrammes dans la section Ressources",
+		"en": "- Added a new exercise to find numbers on the racetrack (European cylinder only)\n- Added an Anagrams page to the Resources section",
+		"es": "- Añadido un nuevo ejercicio para localizar los números en el circuito (solo cilindro europeo)\n- Añadida una página de anagramas en la sección de Recursos"
 	},
 	"changelog_structured": [
 		{
-			"icon": "opti",
-			"fr": "Amélioration des performances",
-			"en": "Performance improvements",
-			"es": "Mejoras de rendimiento"
+			"icon": "racetrack",
+			"fr": "Ajout d'un nouvel exercice pour repérer les numéros sur l'hippodrome (cylindre européen uniquement)",
+			"en": "Added a new exercise to find numbers on the racetrack (European cylinder only)",
+			"es": "Añadido un nuevo ejercicio para localizar los números en el circuito (solo cilindro europeo)"
 		},
 		{
-			"icon": "battery",
-			"fr": "Réduction de la consommation de batterie et de ressources",
-			"en": "Reduced battery and resource usage",
-			"es": "Menor consumo de batería y de recursos"
+			"icon": "resource",
+			"fr": "Ajout d'une page sur les anagrammes dans la section Ressources",
+			"en": "Added an Anagrams page to the Resources section",
+			"es": "Añadida una página de anagramas en la sección de Recursos"
 		}
 	]
 }
